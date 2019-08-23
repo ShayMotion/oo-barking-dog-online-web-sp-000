@@ -3,7 +3,7 @@ class Dog
 end
 
 
-fido = Dog.new
+:fido => Dog.new
 Fido.name = "Fido"
 
 def bark
