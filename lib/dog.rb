@@ -4,7 +4,7 @@ end
 
 
 fido = Dog.new
-Dog.name = "Fido"
+Fido.name = "Fido"
 
 def bark
   puts "woof!"
